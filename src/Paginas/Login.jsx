@@ -26,7 +26,7 @@ const Login = () => {
   };
   return (
     <div className="logincontainer">
-      <h1>Te amodoro</h1>
+      <h1>Reserva</h1>
       <label htmlFor="reserva">
         {" "}
         Referencia:
